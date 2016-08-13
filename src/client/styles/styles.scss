@@ -1,0 +1,18 @@
+.container {
+    outline: #FF0000 dotted thick;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.button {
+    font-size: 20px;
+}
+
+.photo {
+    outline: #0000FF dotted thick;
+    
+    width: 100px;
+    height: 100px;
+}
